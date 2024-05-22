@@ -1,22 +1,4 @@
 {
 	"name": "DeadPixels",
-	"version": 1,
-	"coreFiles": [
-		"info.json",
-		"browser-source.html",
-		"script.js",
-		"styles.css"
-	],
-	"commands": [
-		{
-			"name": "DeadPixels.Kill",
-			"accessMask": 0,
-			"function": "addDeadPixel"
-		},
-		{
-			"name": "DeadPixels.Clear",
-			"accessMask": 0,
-			"function": "clearDeadPixels"
-		}
-	]
+	"version": 1
 }
