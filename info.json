@@ -1,4 +1,8 @@
 {
+	"guid": "70556055-25C7-6169-2486-196EB522211F",
 	"name": "DeadPixels",
-	"version": 1
+	"type": 0,
+	"isPublic": 0,
+	"version": 1,
+	"lastUpdateDate": "2024-05-29 17:31:41"
 }

@@ -3,7 +3,7 @@ const moduleFunctions = {
 	"clearDeadPixels": clearDeadPixels
 };
 
-module.LoadModule(moduleFunctions);
+module.addActions(moduleFunctions);
 
 const CANVAS = document.getElementById('canvas');
 const CTX = CANVAS.getContext('2d');
